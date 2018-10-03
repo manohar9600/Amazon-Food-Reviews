@@ -1,0 +1,13 @@
+Amazon Food Reviews/database.sqlite
+
+*.png
+
+*.tex
+
+*.sqlite
+
+Amazon Food Reviews/\.ipynb_checkpoints/
+
+Amazon Food Reviews/test\.ipynb
+
+*.pkl
