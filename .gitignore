@@ -1,13 +1,17 @@
-Amazon Food Reviews/database.sqlite
-
 *.png
 
 *.tex
-
-*.sqlite
 
 Amazon Food Reviews/\.ipynb_checkpoints/
 
 Amazon Food Reviews/test\.ipynb
 
-*.pkl
+test\.ipynb
+
+\.ipynb_checkpoints/
+
+CustomModules/__pycache__/
+
+Saved/
+
+Data/
